@@ -1,7 +1,7 @@
 # gitskills
 
 ## contents
-[toc]
+[TOC]
 
 ## git basic
 
